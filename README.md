@@ -1,5 +1,7 @@
 Lovely little AI made project that makes it seem to assessors and markers that the slide was made over a set amount of time.
 
+Download the EXE or run the py file both work just fine.
+
 Reason for making is that people can see the version history of slides but with this tool it makes it seem like it was made over a long period of time.
 
 Requires a Google account (as project is made for Goggle Slides) as well as a host of other things.
