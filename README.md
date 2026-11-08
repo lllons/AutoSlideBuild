@@ -13,5 +13,5 @@ To add Google access
 4. Create an OAuth Client ID.
 5. Select Desktop application.
 6. Download the credentials JSON file.
-Save it as credentials.json, or select it through the script's interface
+Save it as credentials.json then when the script asks you to select you credentials.json then select this file.
  
